@@ -1,12 +1,12 @@
 {
   "S/N" : {
     "int": {
-      "min": 001,
+      "min": 1,
       "max": 100
       },
   },
-  "Name" : { "regexp": "[A-Z][a-z]{4,10} [A-Z][a-z]{4,10}" } },
-  "Staff ID" : { "regexp": "[A-Z]{2}[0-9]{4}" } },
+  "Name" : { "regexp": "[A-Z][a-z]{4,10} [A-Z][a-z]{4,10}" },
+  "Staff ID" : { "regexp": "[A-Z]{2}[0-9]{4}" },
   "Department" : {
     "string": [
       "Administration",
