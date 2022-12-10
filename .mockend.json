@@ -1,6 +1,6 @@
 {
   "Name" : { "regexp": "[A-Z][a-z]{4,10} [A-Z][a-z]{4,10}" },
-  "Staff ID" : { "regexp": "[A-Z]{2}[0-9]{4}" },
+  "Staff-ID" : { "regexp": "[A-Z]{2}[0-9]{4}" },
   "Department" : {
     "string": [
       "Administration",
